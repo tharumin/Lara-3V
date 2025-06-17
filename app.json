@@ -1,26 +1,26 @@
 {
   "name": "LARA-MD",
   "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
-  "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
+  "logo": "https://raw.githubusercontent.com/MR-UNKNOWN-ERROR/luna-image/refs/heads/main/luna.jpg?token=GHSAT0AAAAAADF2VD4TJ2SNVWOVRXOCIKRC2CRXUYA",
   "keywords": ["bot"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "p5VUBaD#utGkFsNbN3TMXl9mbXtSdl5tS6q2Sq8vtLT4ZdO8QYU",
       "required": true,
       "value": ""
     },  
     
     "OWNER_NUMBER": {
-      "description": "Set your owner number",
+      "description": "94771673934",
       "required": true,
       "value": "94779062397"
     },
 
     "DEV": {
-      "description": "Bot Developer Numeber",
+      "description": "94771673934",
       "required": true,
       "value": "94779062397"
     },
