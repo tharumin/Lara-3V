@@ -1,4 +1,4 @@
-`Update On : 2025.07.12`
+`Update On : 2025.07.12`CIhBGAqR#aEclQAnv9uO8NUDb7Wy79aAbnnkm1j95jyR-DiD335s
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ADD8E6&center=true&width=1000&height=200&lines=LARA-MD-BOT" alt="Typing SVG" /></a>
 <div align="center">
 	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
