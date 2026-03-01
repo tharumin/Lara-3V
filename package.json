@@ -1,11 +1,12 @@
 {
-   "name": "pnmd",
-   "version": "1.0.0",
-   "scripts": {
-      "start": "node lara.js",
-      "stop": "pm2 stop pnmd",
-      "restart": "git pull && npm stop && npm start",
-      "stash": "git stash && git stash drop"
+  "name": "lara",
+  "version": "4.0.0",
+  "description": "Lara-MD WhatsApp bot created Sadeesha With using Node.js",
+  "main": "Lara.js",
+  "scripts": {
+    "start": "pm2 start Lara.js --deep-monitoring --attach --name lara",
+    "stop": "pm2 stop lara",
+    "restart": "pm2 restart lara"
    },
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
@@ -23,7 +24,7 @@
       "@sl-code-lords/photooxy": "^1.0.1",
       "@sl-code-lords/si-subdl": "^1.1.1",
       "@sl-code-lords/text-pro-me": "^1.0.0",
-      "@whiskeysockets/baileys": "npm:pro-baileys",
+      "@whiskeysockets/baileys": "npm:gifted-baileys@^2.0.6",
       "@xaviabot/fb-downloader": "^1.0.14",
       "api-dylux": "latest",
       "async-g-i-s": "^1.4.0",
@@ -84,6 +85,8 @@
       "ytsearch-venom": "^1.0.0",
       "g-i-s":"2.1.7",
       "adm-zip": "^0.5.16",
-      "ruhend-scraper":"8.0.3"
+      "ruhend-scraper":"8.0.3",
+      "jimp": "0.16.1",
+      "megajs": "1.3.7"
    }
 }
