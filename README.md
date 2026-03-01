@@ -152,7 +152,7 @@ jobs:
 
 | SADEESHA 👤              | THARUSHA 👤              |
 |---------------------|---------------------|
-[![Owner](https://i.ibb.co/NMgHDmw/IMG-20250513-135909-02.jpg)](https://github.com/sadiyamin/) | [![Tharusha](https://i.ibb.co/chkgGJ1N/IMG-20260301-WA0038.jpg)](https://github.com/sadiyamin/) |
+[![Owner](https://i.ibb.co/Z0Rk4Yy/IMG-20250513-135909-02.jpg)](https://github.com/sadiyamin/) | [![Tharusha](https://i.ibb.co/chkgGJ1N/IMG-20260301-WA0038.jpg)](https://github.com/sadiyamin/) |
 </div>
 <hr>
 
