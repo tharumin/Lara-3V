@@ -13,156 +13,17 @@
       "value": ""
     },  
     
-    "OWNER_NUMBER": {
-      "description": "Set your owner number",
+    "GITHUB_USER_NAME": {
+      "description": "put your github name",
       "required": true,
-      "value": "94779062397"
+      "value": ""
     },
 
-    "DEV": {
-      "description": "Bot Developer Numeber",
+    "GITHUB_AUTH_TOKEN": {
+      "description": "put your github auth token without gph_",
       "required": true,
-      "value": "94779062397"
-    },
-    
-    "PREFIX": {
-      "description": "Set bot prefix(#,$,-!,?)",
-      "required": true,
-      "value": "."
-    },
-    
-    "MODE": {
-      "description": "select your bot work type public-private-inbox-group.",
-      "required": true,
-      "value": "public"
-    }, 
-
-    "AUTO_VOICE": {
-      "description": "Make it true if you want bot auto voice.",
-      "required": true,
-      "value": "true"
-    },  
-    
-      "AUTO_REPLY": {
-      "description": "Make it true if you want bot auto reply.",
-      "required": true,
-      "value": "true"
-    },  
-
-    "AUTO_READ_STATUS": {
-      "description": "Make it true if you want bot auto auto_read_status.",
-      "required": true,
-      "value": "true"
-    }, 
-    
-    "AUTO_STATUS_REPLY": {
-      "description": "Statues reply",
-      "required": true,
-      "value": "false"
-    },
-    
-    "STATUS_REPLY_MSG": {
-      "description": "Statues reply msg",
-      "required": true,
-      "value": "*_`AUTO STATUS JUST NOW SEEN BY LARA MD`_*"
-    },
-    
-    "AUTO_STATUS_REACT": {
-      "description": "Make it tru status auto react to any emojis",
-      "required": true,
-      "value": "true"
-    },
-
-    "AUTO_BIO": {
-      "description": "Make it true if you want bot auto bio",
-      "required": true,
-      "value": "true"
-    },
-    
-    "FAKE_RECORDING": {
-      "description": "Make it true if you want bot fake record.",
-      "required": true,
-      "value": "true"
-    },
-    
-    "AUTO_TYPING": {
-      "description": "Make it true if you want bot auto typing",
-      "required": true,
-      "value": "false"
-    },
-
-    "AUTO_REACT": {
-      "description": "Make it true if you want bot AutoReact.",
-      "required": true,
-      "value": "false"
-    },
-    
-      "CUSTOM_REACT": {
-      "description": "Make it true if you want bot custome react.",
-      "required": true,
-      "value": "true"
-    },
-    
-      "CUSTOM_REACT_EMOJIS": {
-      "description": "Custome react emojis.",
-      "required": true,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
-    },
-    
-    "ANTI_LINK": {
-      "description": "Group link shear not allowed and kick out user",
-      "required": true,
-      "value": "true"
-    },
-    
-    "ANTI_BAD": {
-      "description": "Bad word not allowed",
-      "required": true,
-      "value": "true"
-    },
-    
-    "READ_MESSAGE": {
-      "description": "Auto read new messages",
-      "required": true,
-      "value": "false"
-    },
-    
-    "ALWAYS_ONLINE": {
-      "description": "Make it true if show you are always online it false if show your last seen",
-      "required": true,
-      "value": "false"
-    },
-    
-    "ANTI_DELETE": {
-      "description": "Delete massages show",
-      "required": true,
-      "value": "true"
-    },
-    
-    "INBOX_BLOCK": {
-      "description": "Inbox Auto block",
-      "required": true,
-      "value": "false"
-    },
-    
-     "WELCOME": {
-      "description": "Set Group welcome massage",
-      "required": true,
-      "value": "true"
-    },
-    
-     "GOODBYE": {
-      "description": "Set Group goodbye massage",
-      "required": true,
-      "value": "true"
-    },
-    
-     "ADMIN_EVENTS": {
-      "description": "Set Group admin admin events",
-      "required": true,
-      "value": "true"
+      "value": ""
     }
-
 },
 
      "buildpacks": [
