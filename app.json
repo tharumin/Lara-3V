@@ -23,6 +23,12 @@
       "description": "put your github auth token without gph_",
       "required": true,
       "value": ""
+    },
+
+    "OWNE_NUMBER": {
+      "description": "Add your number",
+      "required": true,
+      "value": ""
     }
 },
 
