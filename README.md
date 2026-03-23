@@ -47,7 +47,7 @@
 <a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Lara suported 👧</a>
 <hr>
 <h3>🌸 Lara updates chanels </h3>
-<a href="https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J">Join Lara updates chanel 👧</a>
+<a href="https://whatsapp.com/channel/0029Vb68HLS30LKUxhSuTz06">Join Lara updates chanel 👧</a>
 <hr>
 
 ***CLICK THE BUTTON BELOW TO DEPLOY🌸***
@@ -141,9 +141,6 @@ jobs:
 <hr>
 <img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha_Min" alt="">
 <hr>
-
-<h5>🌸 TOTAL WEB VIEWS</h5>
-<img src="https://profile-counter.glitch.me/Sadeesha/count.svg" center>
 
 <hr>
 
