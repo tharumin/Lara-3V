@@ -32,7 +32,7 @@
 <h5>🌸(SESSION_ID ලබා ගැනීමට පහත බටන් click කරන්න)</h5> 
 <h3>SEVER ➊</h3>
 <div align="center">
-<button><tr><a href="https://laramd-a69153cb7182.herokuapp.com/">🌸 SESSION_ID 🌸 ➊</a></tr></button>
+<button><tr><a href="https://lara-pair-8a2154ef56e3.herokuapp.com/">🌸 SESSION_ID 🌸 ➊</a></tr></button>
 <h3>SEVER ❷</h3>
 <div align="center">
 <button><tr><a href="https://managing-katalin-tharumin-2411035f.koyeb.app/">🌸 SESSION_ID 🌸 ❷</a></tr></button>
