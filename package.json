@@ -2,9 +2,9 @@
   "name": "lara",
   "version": "4.0.0",
   "description": "Lara-MD WhatsApp bot created Sadeesha With using Node.js",
-  "main": "index.js",
+  "main": "Lara.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name lara",
+    "start": "pm2 start Lara.js --deep-monitoring --attach --name lara",
     "stop": "pm2 stop lara",
     "restart": "pm2 restart lara"
   },
