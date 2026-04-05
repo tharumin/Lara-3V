@@ -25,7 +25,7 @@
     "@sl-code-lords/photooxy": "^1.0.1",
     "@sl-code-lords/si-subdl": "^1.1.1",
     "@sl-code-lords/text-pro-me": "^1.0.0",
-    "@whiskeysockets/baileys": "npm:@kelvdra/baileys",
+    "@whiskeysockets/baileys": "npm:gifted-baileys@^2.5.8",
     "@xaviabot/fb-downloader": "^1.0.14",
     "adm-zip": "^0.5.16",
     "api-dylux": "^1.8.5",
