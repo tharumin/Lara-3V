@@ -8,13 +8,13 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "𝕃𝔸ℝ𝔸-𝕄𝔻=yEpSQSCb#VCvT1cl_UqB5EvMRu835dEirofM8otiC_u6YMKbi_UQ",
       "required": true,
       "value": ""
     },  
     
     "GITHUB_USER_NAME": {
-      "description": "put your github name",
+      "description": "Charuka123",
       "required": true,
       "value": ""
     },
