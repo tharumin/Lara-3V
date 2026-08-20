@@ -6,8 +6,8 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    OWNER_NUMBER: process.env.OWNER_NUMBER === undefined ? '94779062397' : process.env.OWNER_NUMBER, //ADD YOUR NUMBER
-    SESSION_ID: process.env.SESSION_ID === undefined ? '' : process.env.SESSION_ID, //ADD YOUR SSION ID
+    OWNER_NUMBER: process.env.OWNER_NUMBER === undefined ? '94789265022' : process.env.OWNER_NUMBER, //ADD YOUR NUMBER
+    SESSION_ID: process.env.SESSION_ID === undefined ? '𝕃𝔸ℝ𝔸-𝕄𝔻=WYQSTJDR#Wzv3q2PAEdcqloxaw9JD11Jvl9u6sAqGy5RbAJLbkY0' : process.env.SESSION_ID, //ADD YOUR SSION ID
     GITHUB_USER_NAME: process.env.GITHUB_USER_NAME === undefined ? '' : process.env.GITHUB_USER_NAME, //ADD YOUR GITHUB USERNAME
     GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN === undefined ? '' : process.env.GITHUB_AUTH_TOKEN, //ADD YOUR GITHUB AUTH TOKEN WITHOUT gph_ ,  example - G5OxxdvEbiBPWxm4A0xypQGlyCr4FS267ifz
     WELCOME: process.env.WELCOME === undefined ? 'true' : process.env.WELCOME,
@@ -15,7 +15,7 @@ module.exports = {
 };
 
 /*
-LARA MD BOT DEVELOPED BY SADEESHA
+LARA MD BOT DEVELOPED BY ammu
 
 (\ (\,,/)        /),,/)
 (-•(    )       (•_•  )
